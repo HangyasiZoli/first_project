@@ -1,4 +1,4 @@
 Hello Git training!
 I am waiting for the lunch
 Add new line
-
+was changed on server
